@@ -10,9 +10,13 @@ An app that can detect faces in any image you put inside the url. Using the Clar
 -Javascript
 
 -React
+
 -Tachyons
+
 -Clarifai API
+
 -Love
+
 
 ## Author
 
